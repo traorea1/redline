@@ -1,0 +1,4 @@
+- author: TRAORE Abdoul Karim 
+- JAVA JEE project with v=git hub version control and docker 
+- @@ 
+- mail: traorea4@student.iugb.edu.ci 
